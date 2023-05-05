@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "330132419174",
+    "firebase_url": "https://fueld-a6582-default-rtdb.firebaseio.com",
+    "project_id": "fueld-a6582",
+    "storage_bucket": "fueld-a6582.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330132419174:android:25614b37455e1763e973a7",
+        "android_client_info": {
+          "package_name": "com.fuelduser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330132419174-ab0vjvmtctu2vu97pujvjgh5nv5ht8s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjsEgRpCcFlZZDZHaT3wQFn8_HR64Q0lQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330132419174-ab0vjvmtctu2vu97pujvjgh5nv5ht8s7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "330132419174-7ag3k7t93vgslfr6qrna0hgnoj8scmll.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "rs.app.FueledRider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330132419174:android:e2b2c41a73e310c6e973a7",
+        "android_client_info": {
+          "package_name": "com.fueledrider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330132419174-2pg287tj80p6gb28trv62fd36ldpmq88.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fueledrider",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "330132419174-ab0vjvmtctu2vu97pujvjgh5nv5ht8s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjsEgRpCcFlZZDZHaT3wQFn8_HR64Q0lQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330132419174-ab0vjvmtctu2vu97pujvjgh5nv5ht8s7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "330132419174-7ag3k7t93vgslfr6qrna0hgnoj8scmll.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "rs.app.FueledRider"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

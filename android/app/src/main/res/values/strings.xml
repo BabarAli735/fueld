@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FueldUser</string>
+
+    <string name="facebook_app_id">422421469422660</string>
+    <string name="fb_login_protocol_scheme">fb422421469422660</string>
+
+
+</resources>
